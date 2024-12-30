@@ -3,8 +3,8 @@ CompanyTest
 
 ---- To Start the Game----
 
-0. Unzip folder
-1. Execute .exe
+0. Unzip folder BuildGradiusDePueblo.zip
+1. Execute GradiusClon.exe
 2. click or press any key to start
 
 
